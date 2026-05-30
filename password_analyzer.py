@@ -73,4 +73,3 @@ else:
 print("\nSHA-256 Hash:")
 print(hashed_password)
 
-print("\nNote: This tool is for educational cybersecurity practice only.")
